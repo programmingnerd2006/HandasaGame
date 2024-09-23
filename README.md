@@ -1,6 +1,6 @@
 # HandasaGame
 A game that should not exist but it does
-#Licenses for assets used
+# Licenses for assets used
 --all assets under the Pixabay folder are downloaded from pixabay and should follow its license
 https://pixabay.com/service/license-summary/
 --all assets under the Menus folder use assets which were downloaded from pixabay and should be used according to pixabay license
